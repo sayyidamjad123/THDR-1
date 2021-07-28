@@ -1,0 +1,36 @@
+{
+  "name": "THDR-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "animequote": "^1.1.1",
+    "atob": "^2.1.2",
+    "canvacord": "^5.2.1",
+    "canvas-constructor": "^4.1.0",
+    "discord-battleship": "^1.0.4",
+    "discord-canvas": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "discord.js-akinator": "^2.1.0",
+    "djs-games": "^1.6.5",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "kitsu.js": "^2.0.0",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "pet-pet-gif": "^1.0.8",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.3",
+    "reconlx": "^1.3.0",
+    "srod-v2": "^1.0.2",
+    "youtube-notification": "^1.1.0",
+    "ytdl-core": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
